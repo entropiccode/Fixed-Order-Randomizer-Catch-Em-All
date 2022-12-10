@@ -42,13 +42,11 @@ Diamond / Pearl
 - Obtain all 493 Pokemon to complete the National Pokedex.
 - Acquire both Certificates from the Game Freak Lead Developer in Valor Lakefront.
 - Defeat the Elite 4 and Champion Cynthia
-- [OPTIONAL] Defeat Barry in the Fight Area on a weekend after returning the Magma Stone to Stark Mountain and entering the Hall of Fame 20 times.
 
 Platinum
 - Obtain all 493 Pokemon to complete the National Pokedex.
 - Acquire both Certificates from the Game Freak Lead Developer in Valor Lakefront.
 - Defeat the Elite 4 Rematch and Champion Cynthia Rematch.
-- [OPTIONAL] Defeat Barry in the Fight Area on a weekend after completing the Stark Mountain events and entering the Hall of Fame 20 times.
 
 Heart Gold / Soul Silver
 - Obtain all 493 Pokemon to complete the National Pokedex.
@@ -59,13 +57,11 @@ Black / White
 - Obtain all 649 Pokemon to complete the National Pokedex.
 - Acquire both Certificates from the Game Freak Lead Developer in Castelia City.
 - Defeat the Elite 4 Rematch and Champion Alder.
-- [OPTIONAL] Defeat Cynthia in Undella Town and GameFreak Morimoto in Castelia City.
 
 Black 2 / White 2
 - Obtain all 649 Pokemon to complete the National Pokedex.
 - Acquire both Certificates from the Game Freak Lead Developer in Castelia City.
 - Defeat the Elite 4 Rematch and Champion Iris Rematch.
-- [OPTIONAL] Defeat Cynthia in Undella Town, Colress on the Plasma Frigate, Game Freak Nishino and Game Freak Morimoto in Castelia City.
 
 # Rules
 The core challenge only has two rules:
