@@ -1,4 +1,4 @@
-# Fixed-Order-Randomizer-Catch-Em-All
+# Fixed-Order Randomizer Catch-Em-All Pokemon Challenge
 Yes, the name sounds like an oxymoron. It'll make sense, I promise. 
 
 The basic premise is you play a randomized copy of a Pokemon game with the goal of completing the Pokedex, acquiring the Diploma/Certificate for doing so, and then defeat the strongest trainer(s) the game has to offer in story.  The snag is that Pokemon must be acquired in a fixed order, creating interesting limitations on team building and progression.
