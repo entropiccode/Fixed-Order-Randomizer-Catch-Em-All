@@ -1,96 +1,11 @@
 # Fixed-Order-Randomizer-Catch-Em-Call
-Yes, the name sounds like an oxymoron. It'll make sense, I promise. The goal of this challenge is to offer a playthrough model that isn’t just a Nuzlocke with more rules (although there are optional rules for those that enjoy that style of gameplay).  The basic rule set is intended primarily for beginners looking for a different way to play the game, as battles stop posing a serious challenge after progressing past the early phases and the focus shifts to completing the Pokdex.  I highly recommend more experienced players utilize one of the additional rule sets to increase the difficulty and keep the challenge engaging.
+Yes, the name sounds like an oxymoron. It'll make sense, I promise. 
+
+The basic premise is you play a randomized copy of a Pokemon game with the goal of completing the Pokedex, acquiring the Diploma/Certificate for doing so, and then defeat the strongest trainer(s) the game has to offer in story.  The snag is that Pokemon must be acquired in a fixed order, creating interesting limitations on team building and progression.
+
+The goal of this challenge is to offer a playthrough model that is not strictly oriented around increasing difficulty through self-imposed rules (Nuzlocke) nor requiring insane amounts of grinding (Professor Oak), but still remaining compatible with those ideas.
 
 The challenge is currently designed for any of the mainline games in Generations 1 through 5.  
-Additionally, the SpeedChoice ROMhacks are allowed for this challenge, but must not be configured to change plot or gameplay progression at all.
+Any ROM Hack that can be randomized to the criteria outlined in the basic rule set can be used, although you may need to adjust the objectives if significant content changes are made.
 
-
-## Objectives
-There are 3 core objectives to this challenge:
-1. Obtain all available Pokemon to complete the Pokedex.
-2. Acquire the Diploma/Certificate(s) from the Game Freak Lead Developer.
-3. Defeat the strongest trainer(s) (aka: Final Boss(es)) the game has to offer.
-
-The specifics for challenge completion in each game are listed below:
-
-Red / Green / Blue / Yellow
-- Obtain all 151 Pokemon to complete the Pokedex.
-- Acquire the Diploma from the Game Freak Lead Developer in Celadon City.
-- Defeat the Elite 4 and Champion Rival.
-
-Gold / Silver / Crystal
-- Obtain all 251 Pokemon to complete the Pokedex.
-- Acquire the Diploma from the Game Freak Lead Developer in Celadon City.
-- Defeat Red in Mt. Silver.
-
-Ruby / Sapphire
-- Obtain all 386 Pokemon to complete the National Pokedex.
-- Acquire both Certificates from the Game Freak Lead Developer in Lilycove City.
-- Defeat the Elite 4 and Champion Steven.
-
-Emerald
-- Obtain all 386 Pokemon to complete the National Pokedex.
-- Acquire both Certificates from the Game Freak Lead Developer in Lilycove City.
-- Defeat Steven in Meteor Falls.
-
-Fire Red / Leaf Green
-- Obtain all 386 Pokemon to complete the National Pokedex.
-- Acquire both Certificates from the Game Freak Lead Developer in Celadon City.
-- Defeat the Elite 4 and Champion Rival Rematches after completing the Sevii Island events.
-
-Diamond / Pearl
-- Obtain all 493 Pokemon to complete the National Pokedex.
-- Acquire both Certificates from the Game Freak Lead Developer in Valor Lakefront.
-- Defeat the Elite 4 and Champion Cynthia
-
-Platinum
-- Obtain all 493 Pokemon to complete the National Pokedex.
-- Acquire both Certificates from the Game Freak Lead Developer in Valor Lakefront.
-- Defeat the Elite 4 Rematch and Champion Cynthia Rematch.
-
-Heart Gold / Soul Silver
-- Obtain all 493 Pokemon to complete the National Pokedex.
-- Acquire both Certificates from the Game Freak Lead Developer in Celadon City.
-- Defeat Red in Mt. Silver.
-
-Black / White
-- Obtain all 649 Pokemon to complete the National Pokedex.
-- Acquire both Certificates from the Game Freak Lead Developer in Castelia City.
-- Defeat the Elite 4 Rematch and Champion Alder.
-
-Black 2 / White 2
-- Obtain all 649 Pokemon to complete the National Pokedex.
-- Acquire both Certificates from the Game Freak Lead Developer in Castelia City.
-- Defeat the Elite 4 Rematch and Champion Iris Rematch.
-
-# Rules
-The core challenge only has two rules:
-1. Unobtained Pokemon can only be acquired in the order outlined in the Catch Order.
-    - Duplicates of previously obtained Pokemon can be acquired freely.
-2. The Final Boss(es) must not be challenged until the Pokedex is complete.
-
-If either of the two rules above are broken, the game must be immediately restarted from the last save.  If a save is made following one of these rules being broken, the challenge is considered completely failed and must be started over entirely.
-
-## Getting Started
-### Catch Order
-The Catch Order must be determined before starting gameplay, as the Catch Order also determines the starter Pokemon for you and your Rival.  
-
-The Catch Order can be a pre-determined list (based on existing material such as the Pokedex or PokeRap) or created randomly.  Randomized Catch Orders can be generated here: https://pco.bobchao87.com
-
-The first two Pokemon in the Catch Order represent your starting Pokemon and your Rival's starting Pokemon.  This ensures you have information on two pokemon that can be acquired following your first Rival battle.  The purpose of this is to allow for progression planning and to help identify undesireable seeds early.
-
-#### Catch Order Rules
-- Every Catch Order must contain each Pokemon that has a unique numbered entry in the given Generation's Pokedex.
-    - The specific number of Pokemon available in each Generation is outlined in the Objectives section.
-
-### Randomizing the Game
-Once the Catch Order has been determined, the game must be randomized with some required settings.
-
-The randomizer of choice is the Universal Pokemon Randomizer ZX by Ajarmar, found here: https://github.com/Ajarmar/universal-pokemon-randomizer-zx/releases
-If you are using a SpeedChoice ROMhack, please utilize the randomizer distributed with the SpeedChoice Emerald patch here: https://github.com/ProjectRevoTPP/pokeemerald-speedchoice/releases/tag/release
-
-#### Required Randomizer Settings
-- The three starting pokemon must be set to the first three pokemon in the Catch Order.  Configure the starters from left to right to ensure your Rival chooses the correct starter.
-- Static Pokemon must be set to "Random (completely)".
-- In-Game Trades must be set to "Randomize both Requested & Given Pokemon".
-- Wild Pokemon must be set to "Area 1-to-1 Mapping", with the Additional Rule set to "Catch Em All Mode".
+Please refer to the Wiki for all rule sets, tool links and guides.
