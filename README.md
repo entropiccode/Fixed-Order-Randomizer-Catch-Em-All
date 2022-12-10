@@ -84,7 +84,7 @@ The first two Pokemon in the Catch Order represent your starting Pokemon and you
     - The specific number of Pokemon available in each Generation is outlined in the Objectives section.
 
 ### Randomizing the Game
-Once the Catch Order has been determined, the game must be randomized with some settings being required for this challenge.
+Once the Catch Order has been determined, the game must be randomized with some required settings.
 
 The randomizer of choice is the Universal Pokemon Randomizer ZX by Ajarmar, found here: https://github.com/Ajarmar/universal-pokemon-randomizer-zx/releases
 If you are using a SpeedChoice ROMhack, please utilize the randomizer distributed with the SpeedChoice Emerald patch here: https://github.com/ProjectRevoTPP/pokeemerald-speedchoice/releases/tag/release
