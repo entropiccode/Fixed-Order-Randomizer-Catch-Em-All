@@ -14,58 +14,58 @@ There are 3 core objectives to this challenge:
 The specifics for challenge completion in each game are listed below:
 
 Red / Green / Blue / Yellow
-: Obtain all 151 Pokemon to complete the Pokedex.
-: Acquire the Diploma from the Game Freak Lead Developer in Celadon City.
-: Defeat the Elite 4 and Champion Rival.
+- Obtain all 151 Pokemon to complete the Pokedex.
+- Acquire the Diploma from the Game Freak Lead Developer in Celadon City.
+- Defeat the Elite 4 and Champion Rival.
 
 Gold / Silver / Crystal
-: Obtain all 251 Pokemon to complete the Pokedex.
-: Acquire the Diploma from the Game Freak Lead Developer in Celadon City.
-: Defeat Red in Mt. Silver.
+- Obtain all 251 Pokemon to complete the Pokedex.
+- Acquire the Diploma from the Game Freak Lead Developer in Celadon City.
+- Defeat Red in Mt. Silver.
 
 Ruby / Sapphire
-: Obtain all 386 Pokemon to complete the National Pokedex.
-: Acquire both Certificates from the Game Freak Lead Developer in Lilycove City.
-: Defeat the Elite 4 and Champion Steven.
+- Obtain all 386 Pokemon to complete the National Pokedex.
+- Acquire both Certificates from the Game Freak Lead Developer in Lilycove City.
+- Defeat the Elite 4 and Champion Steven.
 
 Emerald
-: Obtain all 386 Pokemon to complete the National Pokedex.
-: Acquire both Certificates from the Game Freak Lead Developer in Lilycove City.
-: Defeat Steven in Meteor Falls.
+- Obtain all 386 Pokemon to complete the National Pokedex.
+- Acquire both Certificates from the Game Freak Lead Developer in Lilycove City.
+- Defeat Steven in Meteor Falls.
 
 Fire Red / Leaf Green
-: Obtain all 386 Pokemon to complete the National Pokedex.
-: Acquire both Certificates from the Game Freak Lead Developer in Celadon City.
-: Defeat the Elite 4 and Champion Rival Rematches after completing the Sevii Island events.
+- Obtain all 386 Pokemon to complete the National Pokedex.
+- Acquire both Certificates from the Game Freak Lead Developer in Celadon City.
+- Defeat the Elite 4 and Champion Rival Rematches after completing the Sevii Island events.
 
 Diamond / Pearl
-: Obtain all 493 Pokemon to complete the National Pokedex.
-: Acquire both Certificates from the Game Freak Lead Developer in Valor Lakefront.
-: Defeat the Elite 4 and Champion Cynthia
-: [OPTIONAL] Defeat Barry in the Fight Area on a weekend after returning the Magma Stone to Stark Mountain and entering the Hall of Fame 20 times.
+- Obtain all 493 Pokemon to complete the National Pokedex.
+- Acquire both Certificates from the Game Freak Lead Developer in Valor Lakefront.
+- Defeat the Elite 4 and Champion Cynthia
+- [OPTIONAL] Defeat Barry in the Fight Area on a weekend after returning the Magma Stone to Stark Mountain and entering the Hall of Fame 20 times.
 
 Platinum
-: Obtain all 493 Pokemon to complete the National Pokedex.
-: Acquire both Certificates from the Game Freak Lead Developer in Valor Lakefront.
-: Defeat the Elite 4 Rematch and Champion Cynthia Rematch.
-: [OPTIONAL] Defeat Barry in the Fight Area on a weekend after completing the Stark Mountain events and entering the Hall of Fame 20 times.
+- Obtain all 493 Pokemon to complete the National Pokedex.
+- Acquire both Certificates from the Game Freak Lead Developer in Valor Lakefront.
+- Defeat the Elite 4 Rematch and Champion Cynthia Rematch.
+- [OPTIONAL] Defeat Barry in the Fight Area on a weekend after completing the Stark Mountain events and entering the Hall of Fame 20 times.
 
 Heart Gold / Soul Silver
-: Obtain all 493 Pokemon to complete the National Pokedex.
-: Acquire both Certificates from the Game Freak Lead Developer in Celadon City.
-: Defeat Red in Mt. Silver.
+- Obtain all 493 Pokemon to complete the National Pokedex.
+- Acquire both Certificates from the Game Freak Lead Developer in Celadon City.
+- Defeat Red in Mt. Silver.
 
 Black / White
-: Obtain all 649 Pokemon to complete the National Pokedex.
-: Acquire both Certificates from the Game Freak Lead Developer in Castelia City.
-: Defeat the Elite 4 Rematch and Champion Alder.
-: [OPTIONAL] Defeat Cynthia in Undella Town and GameFreak Morimoto in Castelia City.
+- Obtain all 649 Pokemon to complete the National Pokedex.
+- Acquire both Certificates from the Game Freak Lead Developer in Castelia City.
+- Defeat the Elite 4 Rematch and Champion Alder.
+- [OPTIONAL] Defeat Cynthia in Undella Town and GameFreak Morimoto in Castelia City.
 
 Black 2 / White 2
-: Obtain all 649 Pokemon to complete the National Pokedex.
-: Acquire both Certificates from the Game Freak Lead Developer in Castelia City.
-: Defeat the Elite 4 Rematch and Champion Iris Rematch.
-: [OPTIONAL] Defeat Cynthia in Undella Town, Colress on the Plasma Frigate, Game Freak Nishino and Game Freak Morimoto in Castelia City.
+- Obtain all 649 Pokemon to complete the National Pokedex.
+- Acquire both Certificates from the Game Freak Lead Developer in Castelia City.
+- Defeat the Elite 4 Rematch and Champion Iris Rematch.
+- [OPTIONAL] Defeat Cynthia in Undella Town, Colress on the Plasma Frigate, Game Freak Nishino and Game Freak Morimoto in Castelia City.
 
 # Rules
 The core challenge only has two rules:
