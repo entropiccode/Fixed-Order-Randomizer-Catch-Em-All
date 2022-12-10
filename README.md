@@ -70,7 +70,7 @@ Black 2 / White 2
 # Rules
 The core challenge only has two rules:
 1. Unobtained Pokemon can only be acquired in the order outlined in the Catch Order.
-    1a. Duplicates of previously obtained Pokemon can be acquired freely.
+    - Duplicates of previously obtained Pokemon can be acquired freely.
 2. The Final Boss(es) must not be challenged until the Pokedex is complete.
 
 If either of the two rules above are broken, the game must be immediately restarted from the last save.  If a save is made following one of these rules being broken, the challenge is considered completely failed and must be started over entirely.
